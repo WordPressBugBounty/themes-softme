@@ -3,7 +3,7 @@ Contributors: DesertThemes
 Requires at least: 4.7
 Tested up to: 6.7
 Requires PHP: 5.6
-Stable tag: 1.0.83
+Stable tag: 1.0.84
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Tags: one-column, two-columns ,right-sidebar, flexible-header, custom-background, custom-header, custom-menu, editor-style, featured-images, footer-widgets, post-formats, theme-options, threaded-comments, translation-ready, full-width-template, custom-logo, blog, e-commerce, portfolio
@@ -95,6 +95,9 @@ License: Creative Commons Zero
 License: Creative Commons Zero
 
 == Changelog ==
+
+@version 1.0.84
+* Tested - By WordPress 6.7.1
 
 @version 1.0.83
 * Tested - By WordPress 6.7
