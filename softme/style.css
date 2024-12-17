@@ -1,7 +1,7 @@
 /*
 Theme Name: 	   SoftMe
 Text Domain: 	   softme
-Version:            1.0.86
+Version:            1.0.87
 Tested up to:       6.7
 Requires at least:  4.7
 Requires PHP:       5.6
@@ -361,4 +361,8 @@ table.wc-block-cart-items .wc-block-cart-items__row .wc-block-cart-item__quantit
 .wc-block-mini-cart__footer-checkout:focus {
     background-color: var(--dt-pri-color);
     color: #fff;
+}
+
+.wc-block-mini-cart__footer .wc-block-mini-cart__footer-actions a {
+    text-decoration: none;
 }
