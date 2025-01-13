@@ -44,7 +44,7 @@ if ( empty( $product ) || ! $product->is_visible() ) {
 				?>
 			</div>
 		</div>
-		<a href="<?php echo esc_url(the_permalink()); ?>" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+		<a href="<?php echo esc_url(get_permalink()); ?>" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
 			<h2 class="woocommerce-loop-product__title"><?php the_title(); ?></h2>
 		</a>
 		<?php echo $product->get_price_html(); ?>
