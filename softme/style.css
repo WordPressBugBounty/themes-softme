@@ -1,7 +1,7 @@
 /*
 Theme Name: 	   SoftMe
 Text Domain: 	   softme
-Version:            1.0.91
+Version:            1.0.92
 Tested up to:       6.7
 Requires at least:  4.7
 Requires PHP:       5.6
@@ -381,4 +381,8 @@ table.wc-block-cart-items .wc-block-cart-items__row .wc-block-components-product
 
 .wc-block-mini-cart__footer span.wc-block-components-totals-item__label {
     font-size: 1.5rem;
+}
+
+.wc-block-mini-cart__footer .wc-block-components-totals-item.wc-block-mini-cart__footer-subtotal .wc-block-components-totals-item__description {
+    font-size: 1.2rem !important;
 }
