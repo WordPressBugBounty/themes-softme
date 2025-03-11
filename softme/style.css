@@ -1,7 +1,7 @@
 /*
 Theme Name: 	   SoftMe
 Text Domain: 	   softme
-Version:            1.0.98
+Version:            1.0.99
 Tested up to:       6.7
 Requires at least:  4.7
 Requires PHP:       5.6
@@ -406,4 +406,9 @@ table.wc-block-cart-items .wc-block-cart-items__row .wc-block-cart-item__quantit
 table.wc-block-cart-items .wc-block-cart-items__row .wc-block-cart-item__quantity .wc-block-cart-item__remove-link:hover, 
 table.wc-block-cart-items .wc-block-cart-items__row .wc-block-cart-item__quantity .wc-block-cart-item__remove-link:focus {
     color: var(--dt-pri-color) !important;
+}
+
+.wp-block-woocommerce-customer-account a .wc-block-customer-account__account-icon {
+    height: 2rem !important;
+    width: 2rem !important;
 }
