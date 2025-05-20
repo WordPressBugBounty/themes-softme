@@ -1,7 +1,7 @@
 /*
 Theme Name: 	   SoftMe
 Text Domain: 	   softme
-Version:            1.1.8
+Version:            1.1.9
 Tested up to:       6.8
 Requires at least:  4.7
 Requires PHP:       5.6
@@ -433,5 +433,7 @@ table.wc-block-cart-items .wc-block-cart-items__row .wc-block-cart-item__quantit
 }
 
 .wp-block-page-list a {
+    color: var(--dt-sec-color);
     text-decoration: none;
+    font-weight: 600;
 }
